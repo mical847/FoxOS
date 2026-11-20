@@ -1,0 +1,2 @@
+FoxOS read-only initramfs file access works.
+Programs are ELF64 files loaded from the same archive.
